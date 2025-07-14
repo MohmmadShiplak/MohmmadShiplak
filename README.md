@@ -32,8 +32,7 @@ I'm a passionate full-stack developer who builds real-world web applications tha
 ## 📫 Contact Me
 
 - 📧 Email: `Mohmmad2shiplak@gmail.com`
-- 💼 LinkedIn: LinkedIn
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
+- 💼 LinkedIn: www.linkedin.com/in/mohmmadshiplak
 
 ---
 
