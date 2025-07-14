@@ -18,8 +18,7 @@ I'm a passionate full-stack developer who builds real-world web applications tha
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat&logo=microsoft-sql-server)
 
 **Tools:**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel)
-
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github) 
 ---
 
 ## 📈 GitHub Stats
