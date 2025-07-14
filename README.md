@@ -2,7 +2,7 @@
 
 ### 💻 Full Stack Developer | React.js | ASP.NET Core | SQL Server
 
-I'm a passionate full-stack developer who builds real-world web applications that solve real problems. From designing secure banking systems to developing room booking platforms, I specialize in crafting full-stack solutions with clean architecture, scalability, and user-friendly interfaces.
+I'm a passionate full-stack developer who builds real-world web applications that solve real problems I specialize in crafting full-stack solutions with clean architecture, scalability, and user-friendly interfaces.
 
 ---
 
